@@ -24,9 +24,9 @@ author:
   avatar           : "Profilepic3.jpg"
   name             : "Sharmin Hossain"
   pronouns         : # example: "she/her"  
-  bio              : "Welcome to My World"
+  bio              : "Welcome To My World"
   location         : "USA"
-  employer         : "Red Brick University"
+  employer         : #Red Brick University
   uri              : # URL
   email            : "sharminhossain3007@gmail.com" 
 
