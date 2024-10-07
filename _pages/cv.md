@@ -14,9 +14,9 @@ redirect_from:
 #### Technical Skills: Python, SQL, R, PowerBI, Excel, Latex, GitHub
 
 ## Education
-- Ph.D., Statistics         | North Dakota State University (_Aug 2024_)								       		
-- M.S., Applied Mathematics	| University of Dhaka (_December 2015_)	 			        		
-- B.S., Mathematics         | University of Dhaka (_August 2014_)
+- Ph.D., Statistics North Dakota State University (_Aug 2024_)								       		
+- M.S., Applied Mathematics| University of Dhaka (_December 2015_)	 			        		
+- B.S., Mathematics| University of Dhaka (_August 2014_)
   
 ## Work Experience
 **Researcher @ North Dakota State University (Statistics Department) (_August 2021 - August 2024_)**
