@@ -5,3 +5,4 @@ collection: portfolio
 ---
 
 This project aimed to explore the relationship between various variables in Amazon product reviews, employing univariate and multivariate analyses alongside a bidirectional recurrent neural network (RNN) with long-short-term memory (LSTM) units for recommendation and sentiment classification.
+#[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
