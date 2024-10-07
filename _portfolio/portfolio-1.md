@@ -1,6 +1,6 @@
 ---
 title: "Analysis on Reviews of Amazon Products"
-excerpt: "Exploring E-Commerce Reviews on Amazon using Bidirectional Recurrent Neural Network (RNN) and Long-Short Term Memory (LSTM) For Sentiment and Recommendation Analysis<br/><img src='/images/500x300.png'>"
+excerpt: "Exploring E-Commerce Reviews on Amazon using Bidirectional Recurrent Neural Network (RNN) and Long-Short Term Memory (LSTM) For Sentiment and Recommendation Analysis<br/><img src='/images/AmazonReviews.png'>"
 collection: portfolio
 ---
 
