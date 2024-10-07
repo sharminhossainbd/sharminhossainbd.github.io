@@ -11,8 +11,8 @@ main:
   #- title: "Talks"
     #url: /talks/    
 
-   - title : "Work Experience"
-      url: /work-experience/
+  # - title : "Work Experience"
+   #   url: /work-experience/
 
   - title: "Teaching"
     url: /teaching/    
