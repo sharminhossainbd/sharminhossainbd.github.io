@@ -21,7 +21,7 @@ redirect_from:
   [Red River Valley Statistical Conference](https://www.ndsu.edu/statistics/red_river_valley_statistical_conference/)
 
 ## VOLUNTEER EXPERIENCE
--Volunteer, Bidyanondo Foundation (_Apr 2016_): Volunteered for 1.5 years at Bidyanondo as a teacher and training coordinator, gaining experience in team leadership,
+- Volunteer, Bidyanondo Foundation (_Apr 2016_): Volunteered for 1.5 years at Bidyanondo as a teacher and training coordinator, gaining experience in team leadership,
 event coordination, and contributing to the organization’s educational initiatives. 
 - Assistant Trainer, World Academy of Research and Development (WARD) (_Jul 2015_): Assisted both the trainer and trainees in successfully completing a "Microsoft Excel" training program, applying my
 expertise while gaining new skills in the process.
