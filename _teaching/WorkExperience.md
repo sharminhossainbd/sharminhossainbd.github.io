@@ -1,3 +1,13 @@
+---
+title: "Teaching experience 1"
+collection: teaching
+type: "Undergraduate course"
+permalink: /teaching/WorkExperience
+venue: "University 1, Department"
+date: 2014-01-01
+location: "City, Country"
+---
+
 # Data Analyst
 
 #### Technical Skills: Python, SQL, R, PowerBI, Excel, Latex, GitHub
