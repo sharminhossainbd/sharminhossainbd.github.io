@@ -42,7 +42,7 @@ per semester for classes of 25+ students using JMP software for courses such as 
 Designed and evaluated a novel empirical likelihood test for detecting community structure in network data, demonstrating superior statistical power through extensive simulations compared to existing methods.
 This absence of a community within the network has inspired us to explore and address this issue and motivate us to test the existence of community structure through our thesis research.
 
-![unidentifiable Community Structure](/assets/img/Community Structure.jpg)
+#![unidentifiable Community Structure](/assets/img/Community Structure.jpg)
 
 ### Exploring E-Commerce Reviews on Amazon using Bidirectional Recurrent Neural Network (RNN) and Long-Short Term Memory (LSTM) For Sentiment and Recommendation Analysis
 #[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
