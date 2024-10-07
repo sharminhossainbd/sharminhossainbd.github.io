@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Data Analyst"
+title: "Data Analyst & Growth Hacker"
 author_profile: true
 redirect_from: 
   - /about/
