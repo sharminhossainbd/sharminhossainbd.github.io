@@ -1,5 +1,5 @@
 ---
-permalink: /research/abstract
+permalink: /research/abstract/
 title: "Abstract"
 author_profile: true
 ---
