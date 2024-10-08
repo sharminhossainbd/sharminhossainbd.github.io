@@ -15,7 +15,7 @@ redirect_from:
 - B.S., Mathematics,          University of Dhaka (_August 2014_)
 
 
-## Presentations
+## Presentation
 - Testing Community Structure With Empirical Likelihood - Red River Valley Statistical Conference, Spring 2023 & Spring 2024
 
   [Red River Valley Statistical Conference](https://www.ndsu.edu/statistics/red_river_valley_statistical_conference/)
