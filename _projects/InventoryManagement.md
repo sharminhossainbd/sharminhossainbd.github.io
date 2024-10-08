@@ -1,6 +1,6 @@
 ---
 title: "Inventory Management System Demo Pages"
-excerpt: "This project involved developing a Python application for managing inventory in an online grocery store, featuring functionality to connect to a custom MySQL database and present operational pages on the web.<br/><img src='/images/Dashboard Page.png'>"
+excerpt: "This project involved developing a Python application for managing inventory in an online grocery store, featuring functionality to connect to a custom MySQL database and present operational pages on the web.<br/><img src='/images/Dashboard.jpg'>"
 collection: projects
 ---
 
