@@ -1,3 +1,10 @@
+---
+title: "Abstract"
+collection: research
+---
+
+
+
 Network data, characterized by interconnected nodes and edges, is pervasive in various domains and has gained significant popularity in recent years. From social networks
 and transportation networks to biological networks and communication networks, network
 data has become a valuable source of information for understanding complex systems. A
