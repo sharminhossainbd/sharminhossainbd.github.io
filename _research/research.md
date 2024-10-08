@@ -13,7 +13,8 @@ permalink: /research/
 Network data, characterized by interconnected nodes and edges, is pervasive in various domains and has gained significant popularity in recent years. From social networks
 and transportation networks to biological networks and communication networks, network
 data has become a valuable source of information for understanding complex systems. A
-prominent feature of many network data sets is the presence of community structure. <img src='/images/Community Structure.jpg'>
+prominent feature of many network data sets is the presence of community structure. 
+<img src='/images/Community Structure.jpg'>
 Identifying and understanding the community structure in network data is a critical task in
 network analysis as it can provide insights into the organization, function, and dynamics of
 complex systems and facilitate applications such as targeted marketing, disease propagation
