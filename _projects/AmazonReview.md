@@ -6,4 +6,4 @@ collection: projects
 
 This project aimed to explore the relationship between various variables in Amazon product reviews, employing univariate and multivariate analyses alongside a bidirectional recurrent neural network (RNN) with long-short-term memory (LSTM) units for recommendation and sentiment classification.
 
-[GitHub Link](https://github.com/Sharmin3007/Sentiment_Recommendation_Analysis)
+[GitHub Link](https://github.com/sharminhossainbd/Sentiment_Recommendation_Analysis)
