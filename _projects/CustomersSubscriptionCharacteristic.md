@@ -1,6 +1,6 @@
 ---
 title: "Analysis of Subscribed Customers Characteristics by Multivariate Methods"
-excerpt: "Analyzed data from direct marketing campaigns conducted by a Portuguese bank to predict whether clients would subscribe after telemarketing efforts<br/><img src='/images/AmazonReviews.png'>"
+excerpt: "Analyzed data from direct marketing campaigns conducted by a Portuguese bank to predict whether clients would subscribe after telemarketing efforts<br/><img src='/images/Stepwise Procedure.jpg'>"
 collection: projects
 ---
 
