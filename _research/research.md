@@ -1,10 +1,7 @@
 ---
-permalink: /research
 title: "Researcher @ North Dakota State University (Statistics Department)"
-author_profile: true
-redirect_from: 
-  - /research/
-  - /research.html
+collection: research
+permalink: /research
 ---
 
 
