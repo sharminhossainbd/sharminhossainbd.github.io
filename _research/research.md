@@ -1,7 +1,6 @@
 ---
 title: "Researcher @ North Dakota State University (Statistics Department)"
 collection: research
-#permalink: /research
 ---
 
 
