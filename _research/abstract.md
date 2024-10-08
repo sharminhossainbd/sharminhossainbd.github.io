@@ -1,7 +1,7 @@
 ---
-permalink: /research/abstract/
 title: "Abstract"
-author_profile: true
+collection: research
+permalink: /research/abstract/
 ---
 
 Network data, characterized by interconnected nodes and edges, is pervasive in various domains and has gained significant popularity in recent years. From social networks
