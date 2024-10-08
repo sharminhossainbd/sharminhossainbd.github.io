@@ -1,7 +1,7 @@
 ---
 title: "Researcher @ North Dakota State University"
 collection: research
-permalink: /research
+permalink: /research/abstract
 ---
 
 - Proposed an empirical likelihood test for detecting community structure in both weighted and unweighted networks, addressing limitations in conventional hypothesis testing approaches focused primarily on unweighted networks.
