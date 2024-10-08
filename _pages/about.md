@@ -10,7 +10,7 @@ redirect_from:
 ## Technical Skills
 - MS SQL Server (Join, Data Manipulation)
 - Python (Pandas, Matplotlib)
-- Power BI (Power Query,Visualization)
+- Power BI (Power Query, Visualization)
 - GitHub (Repositories, Pull Requests)
 - Google Analytics (Web Traffic, Conversion)
 - Latex (Documentation)
