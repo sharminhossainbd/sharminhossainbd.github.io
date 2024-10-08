@@ -8,10 +8,7 @@ permalink: /research/
 - Utilized R programming for advanced statistical analysis, including the computation of test statistics, empirical likelihood ratio distributions, and p-values, while evaluating type I error rates and the power of the empirical likelihood test against traditional statistical frameworks by conducting 500 simulations. 
 - Extended simulations to weighted networks using Beta and Gamma distributions for edge weights, analyzing test accuracy and power for different probabilities.
 
-
----
-Abstract
----
+## Abstract
 
 Network data, characterized by interconnected nodes and edges, is pervasive in various domains and has gained significant popularity in recent years. From social networks
 and transportation networks to biological networks and communication networks, network
