@@ -1,6 +1,5 @@
 ---
 title: "Abstract"
-collection: research
 permalink: /research/abstract/
 ---
 
