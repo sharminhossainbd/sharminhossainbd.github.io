@@ -1,6 +1,6 @@
 ---
 title: "Bank Customers Subscription Prediction Using Machine Learning Methods"
-excerpt: "Data from the direct marketing campaigns of a Portuguese banking institution was analyzed to predict whether clients would subscribe after telemarketing efforts, utilizing various machine learning techniques.<br/><img src='/images/Machine Learning.png'>"
+excerpt: "Data from the direct marketing campaigns of a Portuguese banking institution was analyzed to predict whether clients would subscribe after telemarketing efforts, utilizing various machine learning techniques.<br/><img src='/images/BankCustomer.jpg'>"
 collection: projects
 ---
 
