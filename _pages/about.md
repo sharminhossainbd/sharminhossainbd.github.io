@@ -6,7 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 ## Technical Skills
 - MS SQL Server (Join, Data Manipulation)
 - Python (Pandas, Matplotlib)
