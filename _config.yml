@@ -229,6 +229,9 @@ collections:
   projects:
     output: true
     permalink: /:collection/:path/
+  growthhacking:
+    output: true
+    permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
@@ -299,6 +302,15 @@ defaults:
   - scope:
       path: ""
       type: projects
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _growthhacking
+  - scope:
+      path: ""
+      type: growthhacking
     values:
       layout: single
       author_profile: true
