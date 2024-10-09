@@ -16,6 +16,9 @@ main:
     
   - title: "Growth Hacking"
     url: /growthhacking/
+    
+  - title: "Data Analysis"
+    url: /dataanalysis/
 
   #- title: "Research"
     #url: /teaching/    
