@@ -3,6 +3,9 @@ title: "Data Analysis Tasks"
 collection: dataanalysis
 permalink: /dataanalysis/
 ---
+
+<img src='/images/analysisreport.png' width="800" height="250">
+
 ## SQL Query Management
 
 Conducted extensive SQL query management to ensure data integrity. This included performing data accuracy checks, reconciling revenue and stock data, and resolving discrepancies in product metrics to maintain a reliable database for business analysis.
