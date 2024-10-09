@@ -232,6 +232,9 @@ collections:
   growthhacking:
     output: true
     permalink: /:collection/:path/
+  dataanalysis:
+    output: true
+    permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
@@ -311,6 +314,15 @@ defaults:
   - scope:
       path: ""
       type: growthhacking
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _dataanalysis
+  - scope:
+      path: ""
+      type: dataanalysis
     values:
       layout: single
       author_profile: true
