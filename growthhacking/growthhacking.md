@@ -9,6 +9,8 @@ permalink: /growthhacking/
 - Enhancing payment processes, including localized options (e.g., adding Bangla content to the payment page).
 - Improving customer engagement through pop-up lists, product recommendations, and other marketing tactics.
 - Special campaigns for specific customer segments, like foreign book orders and electronics.
+
+<img src='/images/revenue.jpg'>
   
 ## Activation and Engagement:
 
@@ -16,6 +18,8 @@ permalink: /growthhacking/
 - Modifying menus and forms to improve user interface and navigation.
 - Enhancing product visibility through changes in headers, submenus, and home page content.
 - Activating users through email verification and personalized messaging (e.g., abandoned cart pop-ups, book suggestions).
+
+<img src='/images/revenue.jpg' width="800" height="300">
   
 ## Retention Strategies:
 
