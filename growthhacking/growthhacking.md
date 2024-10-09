@@ -4,7 +4,7 @@ collection: growthhacking
 permalink: /growthhacking/
 ---
 
-<img src='/images/button2.jpg'>
+<img src='/images/button3.jpg'>
 
 ## Revenue Generation Tasks:
 
