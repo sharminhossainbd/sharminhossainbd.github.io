@@ -4,7 +4,7 @@ collection: growthhacking
 permalink: /growthhacking/
 ---
 
-<img src='/images/experience.webp' width="800" height="250">
+<img src='/images/button.webp' width="800" height="250">
 
 ## Revenue Generation Tasks:
 
