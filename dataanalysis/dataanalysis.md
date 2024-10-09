@@ -4,7 +4,7 @@ collection: dataanalysis
 permalink: /dataanalysis/
 ---
 
-<img src='/images/analysisreport.png' width="800" height="250">
+<img src='/images/analysisreport.png' width="600" height="200">
 
 ## SQL Query Management
 
