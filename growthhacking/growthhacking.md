@@ -10,7 +10,7 @@ permalink: /growthhacking/
 - Improving customer engagement through pop-up lists, product recommendations, and other marketing tactics.
 - Special campaigns for specific customer segments, like foreign book orders and electronics.
 
-<img src='/images/revenue.jpg' width="800" height="250">>
+<img src='/images/revenue.jpg' width="800" height="250">
   
 ## Activation and Engagement:
 
@@ -72,11 +72,11 @@ permalink: /growthhacking/
 - Incorporating live chat features for real-time customer assistance and engagement.
 - Implementing triggers in the chat for specific customer behaviors (e.g., payment or cart pages).
 
-<img src='/images/feedback.jpg' width="800" height="250">
+<img src='/images/experience.webp' width="800" height="250">
 
 ## Surveys and Feedback Collection:
 
 - Conducting surveys to gather customer insights on various aspects of the shopping experience.
 - Utilizing feedback for continuous improvement of product recommendations, payment methods, and site features.
 
-<img src='/images/experience.webp' width="800" height="250">
+<img src='/images/feedback.jpg' width="800" height="250">
