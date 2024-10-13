@@ -2,12 +2,12 @@
 
 # Menu Description
 
--- Home: This section provides a brief overview and introduction to who I am. It includes a summary of my experience and some highlights of my work.
--- Research: In this section, you will find some details of my research work, including my paper's abstracts. 
--- Growth Hacking: It highlights my personal experience and expertise in growth hacking, with a focus on data analysis, customer acquisition, and optimizing conversion rates. It may also provide examples of how these tactics were applied in previous roles to achieve significant business growth.
--- Data Analysis: This page highlights my approach to analyzing complex datasets and making data-driven decisions to solve business problems. 
--- Academic Projects: The "Projects" page on my website highlights a collection of key projects that i have worked on, showcasing practical applications of their skills and expertise.
--- CV: This section links to my detailed CV, where you can find information about my professional experience, education, skills, and qualifications.
+- Home: This section provides a brief overview and introduction to who I am. It includes a summary of my experience and some highlights of my work.
+ - Research: In this section, you will find some details of my research work, including my paper's abstracts. 
+ - Growth Hacking: It highlights my personal experience and expertise in growth hacking, with a focus on data analysis, customer acquisition, and optimizing conversion rates. It may also provide examples of how these tactics were applied in previous roles to achieve significant business growth.
+- Data Analysis: This page highlights my approach to analyzing complex datasets and making data-driven decisions to solve business problems. 
+- Academic Projects: This page on my website highlights a collection of key projects that i have worked on, showcasing practical applications of their skills and expertise.
+- CV: This section links to my detailed CV, where you can find information about my professional experience, education, skills, and qualifications.
 
 
 
