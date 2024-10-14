@@ -3,7 +3,7 @@ title: "Profitability-of-Category-Wise-Products"
 collection: experiments
 permalink: /experiments/
 ---
-<img src='/images/Category_Products.jpg' width="800">
+<img src='/images/Category_Products.jpg' width="800">(https://sharminhossainbd.github.io/images/Category_Products.jpg)
 
 # Profitability-of-Category-Wise-Products:
 
