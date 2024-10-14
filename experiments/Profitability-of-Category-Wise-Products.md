@@ -4,7 +4,7 @@ collection: experiments
 permalink: /experiments/
 ---
 
-<img src='/images/Category_Products.jpg'>
+<img src='/images/Category_Products.jpg', width="800" height="800">
 
 # Profitability-of-Category-Wise-Products:
 
