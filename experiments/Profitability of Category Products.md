@@ -1,4 +1,8 @@
-
+---
+title: "Prediction Of New Covid Customers Using ARIMA Model"
+excerpt: "The primary aim of this project was to forecast the daily count of new COVID-19 infections in Bangladesh.<br/><img src='/images/Econometrics.jpg'>"
+collection: experiments
+---
 
 
 
