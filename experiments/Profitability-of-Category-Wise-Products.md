@@ -5,9 +5,10 @@ permalink: /experiments/
 ---
 [<img src='/images/Category_Products.jpg' width="800">](https://sharminhossainbd.github.io/images/Category_Products.jpg)
 
-# Profitability-of-Category-Wise-Products:
+## Tools Used
+SQL, Tableau, Microsoft Excel. 
 
-## Data Collection: 
+## Data Collection
 
 The data used in this project is based on real scenarios from my previous company. However, the figures have been modified to maintain confidentiality. 
 
