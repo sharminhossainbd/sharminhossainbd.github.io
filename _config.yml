@@ -236,6 +236,9 @@ collections:
   dataanalysis:
     output: true
     permalink: /:collection/:path/
+  experiments:
+    output: true
+    permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
@@ -329,7 +332,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
-
+  # _experiments
+  - scope:
+      path: ""
+      type: experiments
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
 
 # Sass/SCSS
 sass:
