@@ -3,8 +3,7 @@ title: "Profitability-of-Category-Wise-Products"
 collection: experiments
 permalink: /experiments/
 ---
-[[images/Category_Products.jpg]]
-<img src='/images/Category_Products.jpg', width="800" height="800">
+<img src='/images/Category_Products.jpg' width="800">
 
 # Profitability-of-Category-Wise-Products:
 
