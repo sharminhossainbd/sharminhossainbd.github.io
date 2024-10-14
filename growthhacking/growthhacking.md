@@ -3,6 +3,7 @@ title: "Growth Hacking Experiments"
 collection: growthhacking
 permalink: /growthhacking/
 ---
+On this page, I showcase the growth hacking tests I designed and executed as a growth hacker. These tests focused on identifying strategies to drive user engagement and growth, with the results measured through various key performance indicators (KPIs). For confidentiality reasons, no real numbers or sensitive details are included.
 
 <img src='/images/button3.jpg'>
 
