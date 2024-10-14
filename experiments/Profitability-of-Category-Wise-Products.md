@@ -1,8 +1,10 @@
 ---
 title: "Profitability-of-Category-Wise-Products"
-excerpt: "Testing <br/><img src='/images/Category_Products.jpg'>"
 collection: experiments
+permalink: /experiments/
 ---
+
+<img src='/images/Category_Products.jpg'>
 
 # Profitability-of-Category-Wise-Products:
 
@@ -24,7 +26,7 @@ This Tableau dashboard provides insights into year-wise and category-wise profit
 
 This dashboard aids decision-makers in understanding profit distribution across categories and products, enabling better strategic planning for the business.
 
-<img src='/images/Category_Products.jpg'>
+
 
 ## Dashboard Insights
 
