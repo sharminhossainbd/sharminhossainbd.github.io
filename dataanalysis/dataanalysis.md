@@ -3,6 +3,7 @@ title: "Data Analysis Tasks"
 collection: dataanalysis
 permalink: /dataanalysis/
 ---
+This page highlights my experience in data analysis, where I applied various analytical techniques to uncover insights and drive business decisions. The datasets and details have been modified for confidentiality, but the overall approach and methodologies reflect my work in analyzing complex data to solve real-world problems.
 
 <img src='/images/reportanalysis2.jpg'>
 
