@@ -1,7 +1,7 @@
 ---
 title: "Profitability-of-Category-Wise-Products"
-excerpt: "The primary aim of this project was to forecast the daily count of new COVID-19 infections in Bangladesh.<br/><img src='/images/Econometrics.jpg'>"
 collection: experiments
+permalink: /experiments/
 ---
 
 <img src='/images/Category_Products.jpg'>
