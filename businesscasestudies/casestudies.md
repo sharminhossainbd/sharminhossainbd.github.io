@@ -1,7 +1,7 @@
 ---
 title: "Business Case Studies"
-collection: experiments
-permalink: /experiments/
+collection: businesscasestudies
+permalink: /businesscasestudies/
 ---
 # [Profitability of Category Wise Products](https://sharminhossainbd.github.io/Profitability-of-Category-Wise-Products/)
 
