@@ -236,7 +236,7 @@ collections:
   dataanalysis:
     output: true
     permalink: /:collection/:path/
-  experiments:
+  businesscasestudies:
     output: true
     permalink: /:collection/:path/
 
@@ -332,10 +332,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _experiments
+  # _businesscasestudies
   - scope:
       path: ""
-      type: experiments
+      type: businesscasestudies
     values:
       layout: single
       author_profile: true
