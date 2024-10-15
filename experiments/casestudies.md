@@ -9,7 +9,7 @@ permalink: /experiments/
 
 # [Management Conference Report For July 2019](https://sharminhossainbd.github.io/July_Report/)
 
-[<img src='/images/Picture1.png>](https://sharminhossainbd.github.io/July_Report/Picture1.png)
+[<img src='/images/Picture1.png'>](https://sharminhossainbd.github.io/images/Picture1.png)
 
 
 
