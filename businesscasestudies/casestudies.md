@@ -9,7 +9,7 @@ permalink: /businesscasestudies/
 
 # [Management Conference Report For July 2019](https://sharminhossainbd.github.io/July_Report/)
 
-[<img src='/images/Picture1.png' width="800">](https://sharminhossainbd.github.io/images/Picture1.png)
+[<img src='/images/Picture1.png' width="500">](https://sharminhossainbd.github.io/images/Picture1.png)
 
 # [New Website Launch Tracking Dashboard](https://sharminhossainbd.github.io/New-Website-Launch-Tracking-Dashboard/)
 
