@@ -20,6 +20,19 @@ redirect_from:
 - M.S., Applied Mathematics,	 University of Dhaka (_December 2015_)	 			        		
 - B.S., Mathematics,          University of Dhaka (_August 2014_)
 
+## Certifications
+### 1. Institute and Faculty of Actuaries (IFoA) Exams
+- CT1: Financial Mathematics – Passed
+- CT3: Probability and Mathematical Statistics – Passed
+
+### 2. Stanford University
+- Code in Place (Python)
+  
+### 3. Hacker Rank
+- SQL (Advanced) Certificate
+
+### 4. Academy For Ads
+- Google Analytics Individual Qualification
 
 ## Presentation
 - Testing Community Structure With Empirical Likelihood - Red River Valley Statistical Conference, Spring 2023 & Spring 2024
@@ -41,3 +54,4 @@ ability to create, maintain, and execute tasks within a team environment.
 cultivating a culture of collaborative learning.
 - Shared insights and experiences through writing on Medium, where two of my posts were featured in the Marketing and
 Growth Hacking publication, showcasing my emerging skills in content creation and digital marketing.
+- Solve SQL problems on LeetCode to continuously improve query optimization and performance tuning skills.
