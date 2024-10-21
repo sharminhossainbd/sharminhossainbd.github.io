@@ -7,13 +7,16 @@ redirect_from:
   - /about.html
 ---
 ## Technical Skills
-- MS SQL Server (Join, Data Manipulation)
-- Python (Pandas, Matplotlib)
-- Power BI (Power Query, Visualization)
-- GitHub (Repositories, Pull Requests)
-- Google Analytics (Web Traffic, Conversion)
-- Latex (Documentation)
-- Excel (Vlookup, Pivot Table)
+- MS SQL Server (Join, Data Manipulation) [6+ Years]
+- Python (Pandas, Matplotlib) [2+ Years]
+- R (dplyr, ggplot2) [3+ Years]
+- Tableau (Dashboard, Visualization) [2+ Years]
+- Power BI (Power Query, Visualization) [2+ Years]
+- Google Analytics (Web Traffic, Conversion) [3+ Years]
+- GitHub (Repositories, Pull Requests) [1+ Years]
+- Latex (Documentation) [3+ Years]
+- Excel (Vlookup, Pivot Table) [8+ Years]
+- Power Point (Presentation, Infographics) [8+ Years]
 
 ## Education
 - Ph.D., Statistics,          North Dakota State University (_Aug 2024_)								       		
