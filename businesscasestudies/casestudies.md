@@ -13,7 +13,11 @@ permalink: /businesscasestudies/
 
 # [Management Conference Report For July 2019](https://sharminhossainbd.github.io/July_Report/)
 
-[<img src='/images/Picture1.png' width="500">](https://sharminhossainbd.github.io/images/Picture1.png)
+[<img src='/images/Picture1.png' width="600">](https://sharminhossainbd.github.io/images/Picture1.png)
+
+# [Performance & UX Optimization Tests](https://sharminhossainbd.github.io/Performance-UX-Optimization-Tests/)
+
+[<img src='/images/UX.jpg' width="600">](https://sharminhossainbd.github.io/images/UX.jpg)
 
 # [New Website Launch Tracking Dashboard](https://sharminhossainbd.github.io/New-Website-Launch-Tracking-Dashboard/)
 
