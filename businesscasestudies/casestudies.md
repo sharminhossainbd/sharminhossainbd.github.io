@@ -7,7 +7,7 @@ permalink: /businesscasestudies/
 
 [<img src='/images/Category_Products.jpg' width="500">](https://sharminhossainbd.github.io/images/Category_Products.jpg)
 
-# [Ten Creative Email Campaign Hacks](https://sharminhossainbd.github.io/Insights-from-10-Email-Campaigns/)
+# [Ten Creative Email Campaign Hacks](https://sharminhossainbd.github.io/Ten-Creative-Email-Campaign-Hacks/)
 
 [<img src='/images/Emailnew.jpg' width="500">](https://sharminhossainbd.github.io/images/Emailnew.jpg)
 
@@ -15,7 +15,7 @@ permalink: /businesscasestudies/
 
 [<img src='/images/fulfilment.png' width="500">](https://sharminhossainbd.github.io/images/fulfilment.png)
 
-# [Management Conference Report For July 2019](https://sharminhossainbd.github.io/July_Report/)
+# [Management Conference Report For July 2019](https://sharminhossainbd.github.io/Management-Conference-Report-For-July-2019/)
 
 [<img src='/images/Picture1.png' width="500">](https://sharminhossainbd.github.io/images/Picture1.png)
 
@@ -23,7 +23,7 @@ permalink: /businesscasestudies/
 
 [<img src='/images/UX2.jpg' width="500">](https://sharminhossainbd.github.io/images/UX2.jpg)
 
-# [Navigating Customer Support Success: A Metrics-Driven Approach](https://sharminhossainbd.github.io/Customer-Support-Performance-Metrics/)
+# [Navigating Customer Support Success: A Metrics-Driven Approach](https://sharminhossainbd.github.io/Navigating-Customer-Support-Success-A-Metrics-Driven-Approach/)
 
 [<img src='/images/cs.png' width="500">](https://sharminhossainbd.github.io/images/cs.png)
 
