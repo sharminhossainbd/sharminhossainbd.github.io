@@ -9,7 +9,7 @@ permalink: /businesscasestudies/
 
 # [Ten Creative Email Campaign Hacks](https://sharminhossainbd.github.io/Insights-from-10-Email-Campaigns/)
 
-[<img src='/images/Email1.png' width="500">](https://sharminhossainbd.github.io/images/Email1.png)
+[<img src='/images/Emailnew.jpg' width="500">](https://sharminhossainbd.github.io/images/Emailnew.jpg)
 
 # [Sourcing and Fulfillment Effectiveness](https://sharminhossainbd.github.io/Sourcing-and-Fulfillment-Effectiveness/)
 
@@ -21,7 +21,7 @@ permalink: /businesscasestudies/
 
 # [Performance & UX Optimization Tests](https://sharminhossainbd.github.io/Performance-UX-Optimization-Tests/)
 
-[<img src='/images/UX.jpg' width="500">](https://sharminhossainbd.github.io/images/UX.jpg)
+[<img src='/images/UX2.jpg' width="500">](https://sharminhossainbd.github.io/images/UX2.jpg)
 
 # [Navigating Customer Support Success: A Metrics-Driven Approach](https://sharminhossainbd.github.io/Customer-Support-Performance-Metrics/)
 
